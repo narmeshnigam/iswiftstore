@@ -41,7 +41,7 @@ class __TwigTemplate_002bc1eac050a1efc99c9ca9f10c5b36 extends Template
         // line 1
         if (($context["categories"] ?? null)) {
             // line 2
-            yield "  <div class=\"container-fluid px-1 px-lg-3\">
+            yield "  <div class=\"container-fluid px-5 px-lg-0\">
     <nav id=\"menu\" class=\"navbar navbar-expand-lg bg-primary\">
       <div id=\"category\" class=\"d-block d-sm-block d-lg-none\">";
             // line 4
@@ -193,7 +193,7 @@ class __TwigTemplate_002bc1eac050a1efc99c9ca9f10c5b36 extends Template
     public function getSourceContext(): Source
     {
         return new Source("{% if categories %}
-  <div class=\"container-fluid px-1 px-lg-3\">
+  <div class=\"container-fluid px-5 px-lg-0\">
     <nav id=\"menu\" class=\"navbar navbar-expand-lg bg-primary\">
       <div id=\"category\" class=\"d-block d-sm-block d-lg-none\">{{ text_category }}</div>
       <button type=\"button\" data-bs-toggle=\"collapse\" data-bs-target=\"#navbar-menu\" class=\"navbar-toggler d-lg-none\"><i class=\"fa-solid fa-bars\"></i></button>

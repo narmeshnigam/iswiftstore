@@ -170,7 +170,7 @@ class __TwigTemplate_7c8d39e7c1c0f33109d247a71b99b99a extends Template
 <div id=\"container\">
   <div id=\"alert\"></div>
   <nav id=\"top\">
-    <div class=\"container-fluid px-1 px-lg-3\">
+    <div class=\"container-fluid px-3 px-lg-5\">
       <div class=\"row\">
         <div class=\"col-4\">
           <ul class=\"list-inline\">
@@ -282,7 +282,7 @@ class __TwigTemplate_7c8d39e7c1c0f33109d247a71b99b99a extends Template
     </div>
   </nav>
   <header>
-    <div class=\"container-fluid px-1 px-lg-3\">
+    <div class=\"container-fluid px-3 px-lg-5\">
       <div class=\"row\">
         <div class=\"col-md-3 col-lg-4\">
           <div id=\"logo\">
@@ -397,7 +397,7 @@ class __TwigTemplate_7c8d39e7c1c0f33109d247a71b99b99a extends Template
 <div id=\"container\">
   <div id=\"alert\"></div>
   <nav id=\"top\">
-    <div class=\"container-fluid px-1 px-lg-3\">
+    <div class=\"container-fluid px-3 px-lg-5\">
       <div class=\"row\">
         <div class=\"col-4\">
           <ul class=\"list-inline\">
@@ -434,7 +434,7 @@ class __TwigTemplate_7c8d39e7c1c0f33109d247a71b99b99a extends Template
     </div>
   </nav>
   <header>
-    <div class=\"container-fluid px-1 px-lg-3\">
+    <div class=\"container-fluid px-3 px-lg-5\">
       <div class=\"row\">
         <div class=\"col-md-3 col-lg-4\">
           <div id=\"logo\">
